@@ -1,0 +1,64 @@
+h2 {
+    color: pink;
+    text-align: center;
+}
+h3 {
+    color: red;
+    text-align: center;
+}
+html{
+    background-image: linear-gradient(to right, pink,yellow,purple) ;
+}
+#c1 {
+    color: blue;
+    text-align: center;
+}
+#q1 {
+    color: black;
+}
+#a1 {
+    color: orange;
+}
+#q2 {
+    color: black;
+}
+#a2 {
+    color: orange;
+}
+#q3 {
+    color: black;
+}
+#a3 {
+    color: orange;
+}
+#i1{
+    box-shadow: rgb(31, 29, 29)20px 15px 10px;
+    height: 400px;
+}
+#i2 {
+    box-shadow: rgb(31, 29, 29)20px 15px 10px;
+    height: 400px;
+}
+.i3 {
+    box-shadow: rgb(31, 29, 29) 20px 15px 10px;
+    height: 400px;
+}
+#i4 {
+    box-shadow: rgb(31, 29, 29) 20px 15px 10px;
+    height: 400px;
+}
+
+nav{
+    background-color: darkorchid;
+    text-align: center;
+}
+a {
+    text-decoration-line: none;
+}
+nav ul {
+    list-style: none;
+}
+nav li {
+    display: inline-block;
+    padding: 20px;
+}

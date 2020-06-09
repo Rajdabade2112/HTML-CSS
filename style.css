@@ -62,3 +62,13 @@ nav li {
     display: inline-block;
     padding: 20px;
 }
+.contact-box {
+    display: flex;
+    justify-content: center;
+}
+.row {
+    margin: 30px;
+}
+.input-field {
+    margin: 30px;
+}
